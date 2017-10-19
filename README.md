@@ -9,13 +9,13 @@ Simplified implementation of a reliable, distributed, message broker supporting 
 Communication among publishers and subscribers is `indirect`, via the network of brokers. Both publishers and subscribers connect to one broker (typically, the `nearest` broker in terms of network latency) and send/receive events to/from that broker. Brokers coordinate among each other to propagate events in the overlay network.
 
 * Event routing polices:
-	- Flooding: In this approach events are broadcast across the tree.
-	- Filtering based: In this approach, events are only forwarded only along paths leading to interested subscribers. To this end, brokers maintain information regarding which events should be forwarded to their neighbors.
+	- `Flooding`: In this approach events are broadcast across the tree.
+	- `Filtering based`: In this approach, events are only forwarded only along paths leading to interested subscribers. To this end, brokers maintain information regarding which events should be forwarded to their neighbors.
 
 * Ordering guarantees:
-	- Total order: all events published with total order guarantees are delivered in the same order at all matching subscribers. More formally, if two subscribers s1,s2 deliver events e1,e2, s1 and s2 deliver e1 and e2 in the same order. This ordering property is established on all events published with total order guarantee, independently of the identity of the producer and of the topic of the event.
-	- FIFO order: all events published with FIFO order guarantee by a publiser p are deliv- ered in the same order according to which p published them.
-	- No ordering: as the name suggests, no guarantee is provided on the order of notification of events.
+	- `Total order`: all events published with total order guarantees are delivered in the same order at all matching subscribers. More formally, if two subscribers s1,s2 deliver events e1,e2, s1 and s2 deliver e1 and e2 in the same order. This ordering property is established on all events published with total order guarantee, independently of the identity of the producer and of the topic of the event.
+	- `FIFO order`: all events published with FIFO order guarantee by a publiser p are deliv- ered in the same order according to which p published them.
+	- `No ordering`: as the name suggests, no guarantee is provided on the order of notification of events.
 
 ## How to run
 
