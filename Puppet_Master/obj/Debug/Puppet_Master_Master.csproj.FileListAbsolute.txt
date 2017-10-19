@@ -1,0 +1,9 @@
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\bin\Debug\Puppet_Master_Master.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.csproj.GenerateResource.Cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD\Puppet_Master_Master\obj\Debug\Puppet_Master_Master.Form2.resources

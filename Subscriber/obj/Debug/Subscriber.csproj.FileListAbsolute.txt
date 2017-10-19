@@ -1,0 +1,33 @@
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.dll
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Subscriber\obj\Debug\Subscriber.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Subscriber\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Subscriber\obj\Debug\Subscriber.pdb

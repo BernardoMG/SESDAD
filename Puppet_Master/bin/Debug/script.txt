@@ -1,0 +1,1 @@
+Subscriber subscriber0 Subscribe /test

@@ -1,0 +1,33 @@
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.dll
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Publisher\obj\Debug\Publisher.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Publisher\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\bin\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\obj\Debug\Publisher.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Publisher\obj\Debug\Publisher.pdb

@@ -1,0 +1,33 @@
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe.config
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.dll
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Broker\obj\Debug\Broker.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.6\Broker\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\bin\Debug\Broker.exe.config
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\bin\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\bin\Debug\Broker.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\obj\Debug\Broker.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Broker\obj\Debug\Broker.pdb

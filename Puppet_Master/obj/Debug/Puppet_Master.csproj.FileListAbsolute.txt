@@ -1,0 +1,70 @@
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V0.2\Projecto_DAD-V0.1\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Pedro\Source\Repos\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-VQUASE15\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Ivo Pires\Desktop\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Bernardo Graça\Desktop\Projecto_DAD-V15(Multi)\Projecto_DAD-V0.6\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\bin\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\bin\Debug\Puppet_Master_Master.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\bin\Debug\Reference_DLL.dll
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\bin\Debug\Reference_DLL.pdb
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Puppet_Master.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Projecto_DAD.MasterForm.resources
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Puppet_Master_Master.Properties.Resources.resources
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Puppet_Master.csproj.GenerateResource.Cache
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Puppet_Master_Master.exe
+C:\Users\Bernardo Graça\Desktop\Projecto DAD\Puppet_Master\obj\Debug\Puppet_Master_Master.pdb
